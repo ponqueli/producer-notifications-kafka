@@ -1,0 +1,15 @@
+{
+  "name": "producer-kafka",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "an example of producer kafka connecting to consumer api",
+  "main": "index.js",
+  "scripts": {
+    "test": "n"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^2.2.3"
+  }
+}
